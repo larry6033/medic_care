@@ -1,0 +1,34 @@
+.hero {
+  float: right;
+}
+.list li {
+  display: inline-flex;
+  padding: 0 20px;
+  cursor:pointer;
+}
+.clearfix {
+  clear: both;
+}
+
+ .image {
+  height:80vh;
+  background:url("../images/ezgif-2-b583d0ce77.png") no-repeat center center/cover;
+  
+}
+.hi{
+  background-color:#496BF2;
+  padding:0px 5px;
+  margin-right:20px;
+  border-color:#496BF2;
+}
+.h2{
+  background-color:#2DD6C1;
+  border-color:#2DD6C1;
+}
+.larry{
+  border-color: transparent;
+}
+.riele{
+  float:right;
+}
+
