@@ -31,4 +31,23 @@
 .riele{
   float:right;
 }
+.hugo{
+  float:right;
+  display:inline-flex;
+  margin: 100px;
 
+}
+.aqua{
+  padding:0 150px;
+box-shadow:0 0 5px 5px;
+margin:20px;
+}
+.high{
+  color:#496BF2;
+}
+.h1{
+  color:#496BF2;
+}
+.wow{
+  color:#2DD6C1;
+}
