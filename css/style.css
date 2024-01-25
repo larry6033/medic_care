@@ -34,7 +34,7 @@
 .hugo{
   float:right;
   display:inline-flex;
-  margin: 100px;
+  margin:20px;
 
 }
 .aqua{
@@ -48,6 +48,13 @@ margin:20px;
 .h1{
   color:#496BF2;
 }
-.wow{
-  color:#2DD6C1;
+.power{
+  float:right;
 }
+.montana{
+  float:left;
+}
+.demo{
+  float:left;
+}
+
