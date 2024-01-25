@@ -17,13 +17,16 @@
 }
 .hi{
   background-color:#496BF2;
-  padding:0px 5px;
+  padding:20px;
   margin-right:20px;
   border-color:#496BF2;
+border-radius: 5px;
 }
 .h2{
   background-color:#2DD6C1;
+  padding:20px;
   border-color:#2DD6C1;
+  border-radius: 5px;
 }
 .larry{
   border-color: transparent;
@@ -56,5 +59,23 @@ margin:20px;
 }
 .demo{
   float:left;
+  padding:0 50px;
 }
+.fix{
+  background-color: #496BF2;
+  border-color: #496BF2;
+  padding: 10px;
+  border-radius: 5px;
+  cursor:pointer;
+}
+.happy{
+  text-align: center;
+}
+.back{
+  height: 80vh;
+  background:url("../images/ezgif-2-81a50240fb.png") no-repeat center center/cover;
+}
+
+
+
 
