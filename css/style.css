@@ -21,12 +21,14 @@
   margin-right:20px;
   border-color:#496BF2;
 border-radius: 5px;
+cursor:pointer;
 }
 .h2{
   background-color:#2DD6C1;
   padding:20px;
   border-color:#2DD6C1;
   border-radius: 5px;
+  cursor:pointer;
 }
 .larry{
   border-color: transparent;
@@ -103,6 +105,7 @@ margin:20px;
   border-radius: 4px;
   padding:10px 50px;
   margin-left: 20px;
+  cursor:pointer;
 }
 .word{
   width:25%;
@@ -110,8 +113,28 @@ margin:20px;
 .leo{
   display:flex;
 }
-
-
+.Testimonials-circle{
+  border-color:#496BF2;
+  background-color: #496BF2;
+width:20px;
+border:2px solid rgb(37, 120, 187);
+border-radius:50%;
+display:inline-block;
+margin:6px;
+height:20px;
+} 
+.circle{
+  margin: 10px 150px;
+}
+.box{
+  color:#2DD6C1;
+}
+.ambulance{
+  color:#496BF2;
+}
+.ward{
+  color:#496BF2;
+}
 
 
 
