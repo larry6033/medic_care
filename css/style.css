@@ -100,9 +100,15 @@ margin:20px;
 .puzzle{
   background-color: #496BF2;
   border-color: #496BF2;
-  border-radius: 5px;
-  padding:15px 40px;
+  border-radius: 4px;
+  padding:10px 50px;
   margin-left: 20px;
+}
+.word{
+  width:25%;
+}
+.leo{
+  display:flex;
 }
 
 
