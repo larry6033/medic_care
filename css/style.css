@@ -33,6 +33,7 @@ border-radius: 5px;
 }
 .riele{
   float:right;
+  padding:200px;
 }
 .hugo{
   float:right;
@@ -76,7 +77,14 @@ margin:20px;
   background:url("../images/ezgif-2-81a50240fb.png") no-repeat center center/cover;
 }
 .lap{
-  padding:2px 15px 2px 2px;
+  padding:2px 15px 20px 2px;
+}
+.sync{
+  padding:0 9.5px 300px 0px
+}
+.love{
+  margin:10px 30px;
+  
 }
 
 
