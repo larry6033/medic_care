@@ -78,14 +78,31 @@ margin:20px;
 }
 .lap{
   padding:2px 15px 20px 2px;
+  margin:5px 20px;
 }
 .sync{
-  padding:0 9.5px 300px 0px
+  padding:2px 15px 300px 2px;
+  margin: 5px 20px;
 }
 .love{
   margin:10px 30px;
-  
+  padding-bottom: 30px;
+
 }
+.lapi{
+  padding:2px 15px 20px 2px;
+  margin:5px 20px;
+}
+.jan{
+  padding:2px 15px 20px 2px;
+  margin:5px 20px;
+}
+.puzzle{
+  background-color: #496BF2;
+  border-color: #496BF2;
+  border-radius: 5px;
+}
+
 
 
 
