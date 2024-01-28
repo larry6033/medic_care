@@ -109,6 +109,7 @@ margin:20px;
 }
 .word{
   width:25%;
+  cursor:pointer;
 }
 .leo{
   display:flex;
