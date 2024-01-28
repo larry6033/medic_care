@@ -112,6 +112,7 @@ margin:20px;
 }
 .leo{
   display:flex;
+  list-style-type: none;
 }
 .Testimonials-circle{
   border-color:#496BF2;
