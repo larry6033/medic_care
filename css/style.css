@@ -110,6 +110,7 @@ margin:20px;
 .word{
   width:25%;
   cursor:pointer;
+  list-style-type: none;
 }
 .leo{
   display:flex;
@@ -142,6 +143,9 @@ height:20px;
 }
 .login{
   color:#496BF2;
+}
+.danger{
+  list-style-type: none;
 }
 
 
