@@ -116,16 +116,26 @@ margin:20px;
   display:flex;
   list-style-type: none;
 }
-.Testimonials-circle{
-  border-color:#496BF2;
-  background-color: #496BF2;
+.testimonials-circle{
+  border-color:#2DD6C1;
+  background-color:#2DD6C1;
 width:20px;
-border:2px solid rgb(37, 120, 187);
+border:2px solid #2DD6C1;
 border-radius:50%;
 display:inline-block;
 margin:6px;
 height:20px;
 } 
+.pique-Testimonials-circle{
+  border-color: #496BF2;
+  border-radius: 50%;
+  width:20px;
+  background-color: #496BF2;
+  border:#496BF2 solid 2px;
+  display:inline-block;
+  margin:6px;
+  height:20px;
+}
 .circle{
   margin: 10px 150px;
 }
