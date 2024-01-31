@@ -11,16 +11,16 @@
 .hero {
   float: right;
 }
-.hero-content{
-  width:60%;
-float: right;
-  margin:150px 200px 0 0;
+.hero-content {
+  width: 60%;
+  float: right;
+  margin: 150px 200px 0 0;
 }
-.hero-content h1{
+.hero-content h1 {
   font-size: 50px;
 }
-.hero-content p{
-  margin:30px 0;
+.hero-content p {
+  margin: 30px 0;
 }
 .list li {
   display: inline-flex;
@@ -51,7 +51,7 @@ float: right;
 .riele {
   float: right;
   padding: 200px;
-  width:20px 0;
+  width: 20px 0;
 }
 .hugo {
   float: right;
@@ -61,7 +61,7 @@ float: right;
 .aqua {
   padding: 0 150px;
   box-shadow: 0 0 2px 2px rgb(236, 224, 224);
-  position:30%;
+  position: 30%;
   margin: 20px;
 }
 .high {
@@ -75,11 +75,13 @@ float: right;
 }
 .montana {
   float: left;
+  margin: 40px;
+  width: 40%;
 }
 .demo {
   float: left;
-  padding: 0 50px;
-  margin:150px 200px 0 0;
+  width: 48%;
+  margin: 150px 100px 0 0;
 }
 .fix {
   background-color: #496bf2;
@@ -88,9 +90,11 @@ float: right;
   border-radius: 5px;
   cursor: pointer;
   color: white;
+
 }
 .happy {
   text-align: center;
+  width: 150px 200px 0 0;
 }
 .back {
   height: 80vh;
@@ -100,10 +104,14 @@ float: right;
 .message {
   padding: 10px 550px 50px 10px;
   margin: 20px 20px;
+  border-color:white;
+  border-radius: 5px;
 }
 .sync {
   padding: 10px 440px 150px 10px;
   margin: 20px 20px;
+  border-color: white;
+  border-radius: 5px;
 }
 
 .word {
@@ -140,6 +148,7 @@ float: right;
 }
 .box {
   color: #2dd6c1;
+  margin-right:20px;
 }
 .ambulance {
   color: #496bf2;
@@ -149,7 +158,6 @@ float: right;
 }
 .lemur {
   text-align: center;
-  width:20px 0;
 }
 .login {
   color: #496bf2;
@@ -157,6 +165,23 @@ float: right;
 .danger {
   list-style-type: none;
 }
-.sans {
-  width: ;
+.heros-content {
+  position: 50%;
+}
+.About-us {
+  line-height: 30px;
+  font-size: 20px;
+  align-self: center;
+}
+.network {
+  width: 50%;
+  margin: 0 auto;
+}
+.networks {
+  width: 50%;
+  margin: 0 auto;
+  float: right;
+}
+.tag {
+  position: 50% 48%;
 }
