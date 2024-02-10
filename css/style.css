@@ -13,8 +13,10 @@
 }
 .hero-content {
   width: 60%;
-  float: right;
+  float:right;
+
   margin: 150px 200px 0 0;
+  
 }
 .hero-content h1 {
   font-size: 50px;
@@ -90,15 +92,14 @@
   border-radius: 5px;
   cursor: pointer;
   color: white;
-
 }
-.fixe{
+.fixe {
   background-color: #496bf2;
   border-color: #496bf2;
-  padding:20px 30px;
+  padding: 20px 30px;
   border-radius: 5px;
   cursor: pointer;
-  color:white;
+  color: white;
 }
 .happy {
   text-align: center;
@@ -112,7 +113,7 @@
 .message {
   padding: 10px 550px 50px 10px;
   margin: 20px 20px;
-  border-color:white;
+  border-color: white;
   border-radius: 5px;
 }
 .sync {
@@ -156,7 +157,7 @@
 }
 .box {
   color: #2dd6c1;
-  margin-right:20px;
+  margin-right: 20px;
 }
 .ambulance {
   color: #496bf2;
